@@ -1,4 +1,4 @@
-# 🧱 SSH Chroot Jail Guide
+# 🧱 Chroot Jail Guide
 
 ## What Is Chroot Jail?
 
